@@ -1,4 +1,4 @@
-# ![로고](./englising-fe/src/assets/E.png) 영어 공부를 즐겁게 Englising
+# ![로고](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/E.png) 영어 공부를 즐겁게 Englising
 
 접속 URL: https://englising.com/
 
@@ -16,7 +16,7 @@
 &nbsp;
 
 ## 🛠 아키텍쳐
-![아키텍쳐](../SourceCode/englising-fe/src/assets/readme/architecture.png)
+![아키텍쳐](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/architecture.png))
 
 ## ✨ 기능 소개
 
@@ -31,7 +31,7 @@
 
 #### 플레이 리스트
 
-![싱글 플레이 화면](../SourceCode/englising-fe/src/assets/readme/playlist.gif)
+![싱글 플레이 화면](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/main.gif)
 
 - 추천 플레이 리스트로 사용자의 취향을 분석해서 새로운 노래를 추천해드려요.
 - 마음에 드는 노래를 찾으셨나요? 저장한 노래들만 모아서 따로 보여드려요.
@@ -39,25 +39,25 @@
 
 #### 게임 시작
 
-![싱글 플레이 시작](../SourceCode/englising-fe/src/assets/readme/single_start.gif)
+![싱글 플레이 시작](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/single_start.gif)
 
 - 사용자의 취향에 따라 난이도를 선택할 수 있어요. 난이도와 사용자의 게임 플레이 이력에 따라 출제되는 단어가 달라집니다.
 - 게임이 시작되면 간단한 조작법을 보여줘요.
 
 #### 플레이
 
-![싱글 플레이 화면 1](../SourceCode/englising-fe/src/assets/readme/singleplay1.gif)
+![싱글 플레이 화면 1](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/singleplay1.gif)
 
 - 현재 재생되는 구간의 가사를 하이라이팅 해줍니다.
 - 노래를 듣고 답을 입력하면 결과를 바로 확인할 수 있어요. 좌측에선 전체 정답률을 확인할 수 있습니다.
 - 현재 구간에 빈 칸이 있는데 답안이 입력되지 않으면 다음 구간으로 넘어가지 않아요. 답을 입력하거나 다음 문장을 직접 클릭해주세요!
 
-![싱글 플레이 힌트](../SourceCode/englising-fe/src/assets/readme/singleplay2.gif)
+![싱글 플레이 힌트](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/singleplay2.gif)
 
 - 빈 칸을 누르면 해당 단어를 표준 발음(???)으로 들을 수 있어요.
 - 위 기능은 한 플레이에서 최대 4번까지 사용이 가능합니다.
 
-![싱글 플레이 결과](../SourceCode/englising-fe/src/assets/readme/singleplay3.gif)
+![싱글 플레이 결과](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/singleplay3.gif)
 
 - 게임이 종료되면 결과를 확인할 수 있어요. 전체 가사에서 맞힌 단어, 틀린 단어를 보여줍니다.
 - 우측에는 출제된 단어 목록을 보여줍니다. 단어를 클릭하면 단어장에 추가하여 학습에 활용할 수 있어요.
@@ -67,13 +67,13 @@
 ### 멀티 플레이
 
 #### 방 생성
-![멀티 플레이 생성](../SourceCode/englising-fe/src/assets/readme/multiplay_create.gif)
+![멀티 플레이 생성](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/multiplay_create.gif)
 
 - 방 인원, 장르, 
 - 방을 만들면 방장이 돼요. 방장만 게임을 시작할 수 있습니다.
 
 #### 플레이
-![멀티 플레이 게임](../SourceCode/englising-fe/src/assets/readme/multiplay1.gif)
+![멀티 플레이 게임](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/multiplay1.gif)
 
 - 게임에 참여한 유저들과 문장을 완성해보세요. 다른 유저가 입력한 내용도 바로바로 볼 수 있어요.
 - 채팅으로 의견을 주고 받을 수도 있습니다.
@@ -81,11 +81,11 @@
 - 작성한 답안은 제한 시간이 끝나면 자동으로 제출됩니다. 게임 결과는 라운드마다 확인할 수 있어요.
 
 
-![멀티 플레이 힌트](../SourceCode/englising-fe/src/assets/readme/multiplay_hint.gif)
+![멀티 플레이 힌트](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/multiplay_hint.gif)
 
 - 3라운드에서는 노래 0.7배속, 2배속, 빈칸 5개 공개, 오답수 공개 중 하나의 힌트가 랜덤으로 제공됩니다.
 
-![멀티 플레이 결과](../SourceCode/englising-fe/src/assets/readme/multiplay_result.gif)
+![멀티 플레이 결과](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/multiplay_result.gif)
 
 - 모든 라운드가 끝나면 정답을 확인할 수 있어요.
 
@@ -93,14 +93,14 @@
 
 ### 단어장
 
-![단어장](../SourceCode/englising-fe/src/assets/readme/words.gif)
+![단어장](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/words.gif)
 - 싱글 플레이에 출제된 단어를 단어장에서 한글 뜻과 예문과 함께 확인할 수 있어요.
 
 &nbsp;
 
 ### 프로필 수정
 
-![프로필 수정](../SourceCode/englising-fe/src/assets/readme/edit_profile.gif)
+![프로필 수정](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/readme/edit_profile.gif)
 - 랜덤으로 프로필 이미지를 선택할 수 있어요.
 
 
