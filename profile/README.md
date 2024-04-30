@@ -1,4 +1,4 @@
-# ![로고](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/E.png){width=30%} 영어 공부를 즐겁게 Englising
+# ![로고](https://github.com/Englising/SourceCode/blob/master/englising-fe/src/assets/E.png) 영어 공부를 즐겁게 Englising
 
 접속 URL: https://englising.com/
 
